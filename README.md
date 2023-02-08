@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jamiu Adeniyi
 - 👀 I’m interested in design and development of Backend API development(NodeJs and PHP), Android app (Flutter, Java, XML) 
-- 🌱 I’m currently knowledge of Java, PHP, JavaScript, Go, Dart, Python and more 
+- 🌱 I’m currently have knowledge of Java, PHP, JavaScript, Go, Dart, Python and more 
 - 💞️ I’m looking to collaborate on Backend API
 - 📫 You can reach me on here
